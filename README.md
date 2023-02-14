@@ -90,12 +90,35 @@ Dependencies:
 
 ![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/Edit%20Category.jpg)
 
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/Edit%20Category%20Success.jpg)
+
 4.1.3.3 Delete Category
 
 ![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/3.3%20Delete%20Category.png)
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/3.4%20Delete%20Category%20Success.png)
 
 <hr>
 
 4.1.4 Product Page
 
 ![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/4%20-%20Product.png)
+
+4.1.4.1 Add Product
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/4.1%20-%20Add%20Product.png)
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/4.2%20-%20Add%20Product%20Success.png)
+
+4.1.4.2 Edit Product
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/4.3%20-%20Edit%20Product.png)
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/4.4%20-%20Edit%20Product%20Success.png)
+
+4.1.4.3 Delete Product
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/4.5%20-%20Delete%20Product.png)
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/4.6%20-%20Delete%20Product%20Success.png)
+
