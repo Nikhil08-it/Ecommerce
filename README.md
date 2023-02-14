@@ -1,9 +1,7 @@
 
 # Inventory Management System
 
-This project was developed for the Reuse and Component Based Development - ISB 37804 course at the Universiti Kuala Lumpur.
-
-This project is using Java Enterprise (Java EE), Enterprise Java Bean (EJB) module, and Shared Library. Furthermore, the project also using Data Access Object (DAO) patterns to connect with the database and Model View Controller (MVC) architecture to separate application logic from the user interface.
+This project is using Java Enterprise (Java EE), Enterprise Java Bean (EJB) module, and Shared Library. Furthermore, Data Access Object (DAO) patterns were implemented  in order to connect with the database and Model View Controller (MVC) architecture to separate application logic from the user interface.
 
 Inventory Management System (IMS) frequently used in many business and enterprise in order to maintain stock keeping of their products. In this project, the IMS being used to record and store product inventories systematically.
 
@@ -53,8 +51,8 @@ Dependencies:
 5. Deploy and run `InventoryEA-war` <br>
 6. Navigate to URL; `/InventoryEA-war/AdminLogin` <br>
 7. Login with the following default admin credentials : <br>
-> Username : admin
-> Password : admin
+> Username : admin<br>
+> Password : admin<br>
 
 Notes: If necessary, please build the project by following this sequence;<br>
  `InventoryEA-SharedLibrary` -> `InventoryEA-ejb`. <br>
