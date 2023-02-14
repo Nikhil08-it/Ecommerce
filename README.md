@@ -46,15 +46,15 @@ Dependencies:
 
 Administrator Process Flow
 
-<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/admin_flow.png?token=GHSAT0AAAAAAB6ODJA3EESC6INWIC4M3WMCY7LZ5NA" width=600>
+<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/admin_flow.png?token=GHSAT0AAAAAAB6ODJA3EESC6INWIC4M3WMCY7LZ5NA" width=650>
 
 Staff Process Flow
 
-<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/staff_flow.png?token=GHSAT0AAAAAAB6ODJA2B3HLLCFUUY457APQY7LZ54A" width=520>
+<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/staff_flow.png?token=GHSAT0AAAAAAB6ODJA2B3HLLCFUUY457APQY7LZ54A" width=590>
 
 
 ## Database
 
-<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/erd2.png?token=GHSAT0AAAAAAB6ODJA2I5PCBYSU5LA7K3K4Y7LZ6IQ" width=600>
+<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/erd2.png?token=GHSAT0AAAAAAB6ODJA2I5PCBYSU5LA7K3K4Y7LZ6IQ" width=650>
 
-<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/datamodel2.png?token=GHSAT0AAAAAAB6ODJA2VIEC36KM7L26GYSKY7LZ6ZQ" width=600>
+<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/datamodel2.png?token=GHSAT0AAAAAAB6ODJA2VIEC36KM7L26GYSKY7LZ6ZQ" width=650>
