@@ -62,3 +62,40 @@ Dependencies:
 
 ## 4. User Interface
 
+4.1 Administrator
+
+4.1.1 Admin Login Page
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/1%20-%20Admin%20Login.png)
+
+<hr>
+
+4.1.2 Admin Dashboard
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/2%20-%20Dashboard.png)
+
+<hr>
+
+4.1.3 Category Page
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/3%20-%20Category.png)
+
+4.1.3.1 Add Category
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/3.1%20Add%20Category.png)
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/3.2%20Add%20Category%20Success.png)
+
+4.1.3.2 Edit Category
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/Edit%20Category.jpg)
+
+4.1.3.3 Delete Category
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/3.3%20Delete%20Category.png)
+
+<hr>
+
+4.1.4 Product Page
+
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-JavaEE-Web/main/img/Admin/4%20-%20Product.png)
