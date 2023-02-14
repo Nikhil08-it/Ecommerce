@@ -6,10 +6,10 @@ This project was developed for the Reuse and Component Based Development - ISB 3
 Inventory Management System (IMS) is a software system that are being used in many business and enterprise in order to maintain stock keeping of their products. In this project, the IMS being used to record and store product inventories systematically.
 
 This project consists two sides;
-1. Administrator 
+1. Administrator <br>
 Administrator are able to manage all order, product and the staff including their account credentials.
 
-2. Staff
+2. Staff <br>
 Staff able to manage order that been created by their own account and not anyone else, restock product quantity and manage their own account details.
 
 ## License
@@ -39,22 +39,26 @@ Dependencies:
 - MySQL Connector J 8.0.17
 
 
-## Use Case Diagram
-<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/Usecase2.png?token=GHSAT0AAAAAAB6ODJA3JB3CPVZ4FI5UCVXMY7LZ4UQ" width=380>
+## 1. Use Case Diagram
+<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/Usecase2.png" width=380>
 
-## Business Process Flow
+## 2. Business Process Flow
 
-Administrator Process Flow
+2.1 Administrator Process Flow
 
-<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/admin_flow.png?token=GHSAT0AAAAAAB6ODJA3EESC6INWIC4M3WMCY7LZ5NA" width=650>
+<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/admin_flow.png" width=650>
 
-Staff Process Flow
+2.2 Staff Process Flow
 
-<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/staff_flow.png?token=GHSAT0AAAAAAB6ODJA2B3HLLCFUUY457APQY7LZ54A" width=590>
+<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/staff_flow.png" width=590>
 
 
-## Database
+## 3. Database
 
-<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/erd2.png?token=GHSAT0AAAAAAB6ODJA2I5PCBYSU5LA7K3K4Y7LZ6IQ" width=650>
+<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/erd2.png" width=650>
 
-<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/datamodel2.png?token=GHSAT0AAAAAAB6ODJA2VIEC36KM7L26GYSKY7LZ6ZQ" width=650>
+<img src="https://raw.githubusercontent.com/iamashraff/Inventory-Management-System-Java-Enterprise/main/img/datamodel2.png" width=650>
+
+
+## 4. User Interface
+
