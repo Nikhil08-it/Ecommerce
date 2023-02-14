@@ -42,12 +42,12 @@ Dependencies:
 ## How to use ?
 1. Fork, clone and download this repository .
 2. Import and restore the MySQL database.
-3. There are four (4) project file : 
+3. There are 4 project files : 
 - `InventoryEA-ejb` <br>
 - `InventoryEA-SharedLibrary` <br>
 - `InventoryEA-war` <br>
 - `Inventory-EnterpriseApplication` <br>
-4. Open all projects via Netbeans IDE. <br>
+4. Open all of the projects via Netbeans IDE. <br>
 5. Deploy and run `InventoryEA-war` <br>
 6. Navigate to URL; `/InventoryEA-war/AdminLogin` <br>
 7. Login with the following default admin credentials : <br>
