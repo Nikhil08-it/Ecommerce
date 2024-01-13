@@ -1,7 +1,7 @@
 
 # Inventory Management System
 
-This project is using Java Web Application, Java Enterprise (Java EE), Enterprise Java Bean (EJB) module, and Shared Library. Furthermore, Data Access Object (DAO) patterns were implemented  in order to connect with the database and Model View Controller (MVC) architecture to separate application logic from the user interface.
+This project is using Java Web Application, Java Enterprise (Java EE), Enterprise Java Bean (EJB) module, and Shared Library. Furthermore, Data Access Object (DAO) patterns were implemented  in order to connect with the database and **Model View Controller (MVC)** architecture to separate application logic from the user interface.
 
 Inventory Management System (IMS) frequently used in many business and enterprise in order to maintain stock keeping of their products. In this project, the IMS being used to record and store product inventories systematically.
 
