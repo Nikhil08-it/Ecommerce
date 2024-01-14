@@ -21,12 +21,10 @@ Please visit  `LICENSE`  file to read the details about the license.
 
 Language :
 - Java
-- Javascript
 
 Technologies:
--  Java Enterprise Edition (Java EE)
+- Java EE
 - Enterprise Java Bean (EJB)
-- Java Web Application
 - MDBootstrap 5 CSS
 - MySQL Database
 
